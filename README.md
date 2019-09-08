@@ -2,7 +2,6 @@
 
 documentation of a simple example for using the data guide api
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/P3nny/datenguide_scicar/master)
+You can try and twist the example here:
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/P3nny/datenguide_scicar/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/P3nny/datenguide_scicar/master)
