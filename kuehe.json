@@ -1,0 +1,173 @@
+{
+  "data": {
+    "allRegions": {
+      "page": 0,
+      "total": 16,
+      "itemsPerPage": 50,
+      "regions": [
+        {
+          "id": "10",
+          "name": "Saarland",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 61.7
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "name": "Berlin",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 23.6
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "name": "Brandenburg",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 40.4
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "name": "Mecklenburg-Vorpommern",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 40.6
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "name": "Sachsen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 53.7
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "name": "Sachsen-Anhalt",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 28.6
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "name": "Thüringen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 41.5
+            }
+          ]
+        },
+        {
+          "id": "01",
+          "name": "Schleswig-Holstein",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 110.7
+            }
+          ]
+        },
+        {
+          "id": "02",
+          "name": "Hamburg",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 42.1
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "name": "Niedersachsen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 100.3
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "name": "Bremen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 124.1
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "name": "Nordrhein-Westfalen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 98.1
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "name": "Hessen",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 57.2
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "name": "Rheinland-Pfalz",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 49.1
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "name": "Baden-Württemberg",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 69.5
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "name": "Bayern",
+          "AI0902": [
+            {
+              "year": 2016,
+              "value": 101.9
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+
