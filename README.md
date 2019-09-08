@@ -1,6 +1,6 @@
 # datenguide_scicar
 
-documentation of a simple example for using the data guide api
+documentation of a simple example for using the [datengui.de](https://datengui.de/) api.
 
 You can try and twist the example here:
 
