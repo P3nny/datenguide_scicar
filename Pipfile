@@ -9,6 +9,7 @@ verify_ssl = true
 tzlocal = "*"
 pandas = "*"
 jupyter = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
